@@ -1,2 +1,2 @@
-print("hello world!")
-print("hello python!")
+def B():
+    a = "添加了1"
